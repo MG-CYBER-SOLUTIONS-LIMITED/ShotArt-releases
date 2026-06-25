@@ -3,6 +3,17 @@
     <channel>
         <title>ShotArt</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 25 Jun 2026 21:36:29 +1200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mg-cyber-solutions-limited.github.io/ShotArt-releases/ShotArt-0.1.1.dmg" length="1941233" type="application/octet-stream" sparkle:edSignature="hvk1O3sqPZuGioXdJTUvmxaHkQOCW4LSFuRTeDLZraSpUGYuJpZMROMg2A52crpaS6YHXTSmm+PH4tUXWTjGDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://mg-cyber-solutions-limited.github.io/ShotArt-releases/ShotArt2-1.delta" sparkle:deltaFrom="1" length="11682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ExnL8ojkDrCS9V43YhT2bZnh2XMxPvwK/EnfUzwMINjC/KS/XRGrzB+pn7yDUqVKyaXkQNk37bONb5oUimnPCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 25 Jun 2026 21:04:38 +1200</pubDate>
             <sparkle:version>1</sparkle:version>
