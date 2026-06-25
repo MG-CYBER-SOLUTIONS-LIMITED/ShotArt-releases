@@ -6,9 +6,9 @@
             <title>1.0</title>
             <pubDate>Thu, 25 Jun 2026 21:04:38 +1200</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="ShotArt-0.1.0.dmg" length="933992" type="application/octet-stream" sparkle:edSignature="4Rw9xlQ3fEuGg9YlwsgVyhD0OizsXlBcxWy2Ou9dHN7uZqV2XSPEBQCXIEjdSOV4DOlvoWxvP2e2YM64DcENCw=="/>
+            <enclosure url="https://mg-cyber-solutions-limited.github.io/ShotArt-releases/ShotArt-0.1.0.dmg" length="1941197" type="application/octet-stream" sparkle:edSignature="uLaCoB8KMMvz0hLFso25LGAJcdq0pCVyhtQqfcwWhop3XU/SxTggXwhcYih3uBmD26BPpUwaeh7kUzVi737xCg=="/>
         </item>
     </channel>
 </rss>
