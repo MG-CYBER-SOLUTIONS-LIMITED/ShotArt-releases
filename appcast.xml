@@ -3,6 +3,14 @@
     <channel>
         <title>ShotArt</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 12:43:22 +1300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MG-CYBER-SOLUTIONS-LIMITED/ShotArt-releases/releases/download/v1.1.0/ShotArt-1.1.0.dmg" length="3370357" type="application/octet-stream" sparkle:edSignature="KyhYAuCNiX1+Ax9aRAUaEg8E3w8shgwl8/MM/UZKFiF08CCUIN1JqJsd2ZEY8SsT8sIudSj3j893r1ot0hZJBw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 25 Jun 2026 21:36:29 +1200</pubDate>
             <sparkle:version>2</sparkle:version>
